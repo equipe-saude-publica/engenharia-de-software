@@ -6,7 +6,7 @@ Este projeto tem como objetivo desenvolver o ReConectar, um aplicativo de saúde
 
 ## 📑 Estrutura do Repositório
 
-- [📂 1_Documentação](./1_Documentação)
+- [📂 Documentação](./1_Documentação)
  
 
 *(Novas fases serão adicionadas conforme andamento da disciplina.)*
