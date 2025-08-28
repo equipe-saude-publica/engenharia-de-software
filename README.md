@@ -1,4 +1,4 @@
-# ReConectar — Projeto de Saúde Pública
+# 🧠 ReConectar — Projeto de Saúde Pública
 Repositório da disciplina **Engenharia de Software B**.  
 Este projeto tem como objetivo desenvolver o ReConectar, um aplicativo de saúde mental que promove a redução do uso excessivo de Inteligência Artificial, no cotiano, proporcionando o aumento do bem-estar e equilíbrio no uso da tecnologia.  
 
