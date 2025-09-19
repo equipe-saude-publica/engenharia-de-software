@@ -20,8 +20,7 @@ Criar uma solução tecnológica que auxilie os usuários a:
 ---
 
 ## 1.4 Motivação
-O uso excessivo de tecnologia e inteligência artificial no cotidiano tem gerado impactos negativos, como perda de foco, ansiedade e retrocesso intelectual.  
-O **ReConectar** surge como resposta a essa problemática, oferecendo um refúgio digital que incentiva equilíbrio e bem-estar.  
+O uso desenfreado da tecnologia, em especial de ferramentas de inteligência artificial e algoritmos de recomendação, tem provocado impactos significativos na saúde mental das pessoas, como perda de criatividade, foco, capacidade crítica e autonomia. Muitos usuários se tornam passivos diante da avalanche de conteúdos gerados por IA, perdendo o hábito de criar, refletir e agir de forma consciente. A proposta do ReConectar é criar uma solução acessível que auxilie os usuários a se reconectarem consigo mesmos e com o mundo real, promovendo bem-estar, hábitos saudáveis, expressão criativa e consciência digital. 
 
 ---
 
