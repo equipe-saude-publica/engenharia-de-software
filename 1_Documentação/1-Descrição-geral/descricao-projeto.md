@@ -25,10 +25,11 @@ O uso desenfreado da tecnologia, em especial de ferramentas de inteligência art
 ---
 
 ## 1.5 Equipe de Desenvolvimento
-- Nome 1  
-- Nome 2  
-- Nome 3  
-- Nome 4  
+- Amanda Silva 
+- Francisco Martins
+- Severino Souza 
+- Susie Marques
+- Valdecir Reis 
 
 ---
 
