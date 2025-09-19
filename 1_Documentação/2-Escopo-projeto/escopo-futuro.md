@@ -10,7 +10,7 @@ São funcionalidades planejadas para tornar o sistema mais completo, oferecendo 
 
 **Tabela de Requisitos Funcionais Futuros:**  
 
-![Requisitos Funcionais Futuros](link_imagem_funcionais_futuros)
+![Requisitos Funcionais Futuros](https://github.com/user-attachments/assets/249822e9-d80a-4bfe-a22a-0a9b511a450e)
 
 ---
 
@@ -19,7 +19,7 @@ Definem melhorias de qualidade a serem incorporadas ao sistema em versões futur
 
 **Tabela de Requisitos Não Funcionais Futuros:**  
 
-![Requisitos Não Funcionais Futuros](link_imagem_nao_funcionais_futuros)
+![Requisitos Não Funcionais Futuros](https://github.com/user-attachments/assets/119bb682-8483-4d9f-a431-57c9bfb8b59f)
 
 ---
 
@@ -28,5 +28,5 @@ São diretrizes e condições que deverão ser implementadas em versões futuras
 
 **Tabela de Regras de Negócio Futuras:**  
 
-![Regras de Negócio Futuras](link_imagem_regras_futuras)
+![Regras de Negócio Futuras](https://github.com/user-attachments/assets/3a5bc8ba-f270-4c7b-9d89-f215d6d41b7d)
 
