@@ -24,7 +24,22 @@ O uso desenfreado da tecnologia, em especial de ferramentas de inteligência art
 
 ---
 
-## 1.5 Equipe de Desenvolvimento
+## 1.5 Descrição dos Usuários Finais
+Os principais usuários do aplicativo são:  
+
+- **Pessoas físicas** que buscam melhorar sua saúde mental, reduzindo a dependência tecnológica e adotando práticas de equilíbrio.  
+- **Estudantes e profissionais** que desejam aumentar sua produtividade e foco, combatendo distrações digitais.  
+- **Comunidades de apoio** que utilizam o app para compartilhar experiências, rotinas e desafios, fortalecendo o senso de conexão humana.
+
+## 1.6 Resultados Esperados
+
+- Interface intuitiva e adaptável
+- Redução do uso excessivo de tecnologia e aumento da percepção de bem-estar.   
+- Engajamento progressivo dos usuários com trilhas completas e evolução de perfil.  
+- Formação de uma comunidade interna acolhedora com apoio entre usuários.  
+- Base estruturada para futuras parcerias com instituições acadêmicas e de saúde mental.
+
+## 1.7 Equipe de Desenvolvimento
 - Amanda Silva 
 - Francisco Martins
 - Severino Souza 
@@ -33,10 +48,11 @@ O uso desenfreado da tecnologia, em especial de ferramentas de inteligência art
 
 ---
 
-## 1.6 Descrição dos Usuários Finais
-Os principais usuários do aplicativo são:  
+## 1.8 Gerenciamento de Comunicação
 
-- **Pessoas físicas** que buscam melhorar sua saúde mental, reduzindo a dependência tecnológica e adotando práticas de equilíbrio.  
-- **Estudantes e profissionais** que desejam aumentar sua produtividade e foco, combatendo distrações digitais.  
-- **Comunidades de apoio** que utilizam o app para compartilhar experiências, rotinas e desafios, fortalecendo o senso de conexão humana.  
+- **Sprint Planning**: toda segunda-feira, reunião via Google Meet
+- **Daily Stand-up**: mensagens curtas no grupo do WhatsApp às 9h
+- **Sprint Retrospective**: feedback interno e melhorias
+- **Ferramentas de Comunicação**: WhatsApp, Google Meet, GitHub Issues
+
 
