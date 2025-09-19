@@ -10,7 +10,7 @@ Os requisitos funcionais representam **as funcionalidades que o sistema deve obr
 
 **Tabela de Requisitos Funcionais:**  
 
-![Requisitos Funcionais](https://github.com/user-attachments/assets/ff0a74e0-0d53-451a-8878-54585b93c2d0)
+![Requisitos Funcionais](https://github.com/user-attachments/assets/d8fc5024-2074-44ec-9c0c-01f944054a96)
 
 ---
 
