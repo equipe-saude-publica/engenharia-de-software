@@ -6,5 +6,5 @@ O diagrama de classes do aplicativo **ReConectar** mostra a estrutura do sistema
 
 **Diagrama de Classes**  
 
-![Diagrama de Classes](link_da_imagem_aqui)
+![Diagrama de Classes](https://github.com/user-attachments/assets/f33bef92-8c13-4638-9d77-1e5ff589d7c4)
 
