@@ -8,9 +8,6 @@ Este projeto tem como objetivo desenvolver o ReConectar, um aplicativo de saúde
 
 - [📂 Documentação](./1_Documentação)
  
-
-*(Novas fases serão adicionadas conforme andamento da disciplina.)*
-
 ---
 
 ## 🎯 Objetivo Geral
