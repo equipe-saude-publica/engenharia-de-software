@@ -20,7 +20,7 @@ Os requisitos não funcionais definem **as características de qualidade** que o
 
 **Tabela de Requisitos Não Funcionais:**  
 
-<img width="808" height="163" alt="Image" src="https://github.com/user-attachments/assets/46e6d93d-22bb-4d60-a77c-c3f7a6883f10" />
+<img width="802" height="118" alt="Image" src="https://github.com/user-attachments/assets/a1a4c0a6-d6ab-47b5-8394-fe8ee316deef" />
 
 ---
 
