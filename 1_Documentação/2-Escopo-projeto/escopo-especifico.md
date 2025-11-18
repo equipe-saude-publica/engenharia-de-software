@@ -10,7 +10,8 @@ Os requisitos funcionais representam **as funcionalidades que o sistema deve obr
 
 **Tabela de Requisitos Funcionais:**  
 
-![Requisitos Funcionais](https://github.com/user-attachments/assets/01466c3e-ac9b-4232-9ab9-c3f308485cd7)
+<img width="803" height="267" alt="Image" src="https://github.com/user-attachments/assets/e07b43ce-8e4c-41c0-8ee1-3a898a326349" />
+
 
 ---
 
@@ -19,7 +20,7 @@ Os requisitos não funcionais definem **as características de qualidade** que o
 
 **Tabela de Requisitos Não Funcionais:**  
 
-![Requisitos Não Funcionais](https://github.com/user-attachments/assets/7105d9aa-c7d3-49d8-9d72-96d3c1593a6f)
+<img width="808" height="163" alt="Image" src="https://github.com/user-attachments/assets/46e6d93d-22bb-4d60-a77c-c3f7a6883f10" />
 
 ---
 
@@ -28,5 +29,5 @@ As regras de negócio descrevem **as condições e restrições específicas** q
 
 **Tabela de Regras de Negócio:**  
 
-![Regras de Negócio](https://github.com/user-attachments/assets/912e988a-fb3a-4517-a9c7-ffa75cad4a13)
+<img width="808" height="163" alt="Image" src="https://github.com/user-attachments/assets/d8e1ee64-16f7-4c0b-b48e-22feb659ad12" /> 
 
